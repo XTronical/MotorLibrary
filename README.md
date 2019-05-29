@@ -6,8 +6,8 @@ Uno or Nano you could control up to six motors at different speeds and direction
 
 Key functions - Please see www.xtronical.com/motorlibrary for more information and parameters
 
-SetSpeed  : Set the speed of the motor in %
-GetSpeed  : Get current speed of motor in %
-Reverse   : Reverse direction
-SetDirection : Set current motor direction
+SetSpeed  : Set the speed of the motor in %,
+GetSpeed  : Get current speed of motor in %,
+Reverse   : Reverse direction,
+SetDirection : Set current motor direction,
 GetDirection : Get current motor direction
